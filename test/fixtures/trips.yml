@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  arrival: 2014-03-13 00:08:27
+  public: false
+  name: MyString
+  latitude: 1.5
+  longitude: 1.5
+  address: MyString
+
+two:
+  arrival: 2014-03-13 00:08:27
+  public: false
+  name: MyString
+  latitude: 1.5
+  longitude: 1.5
+  address: MyString
